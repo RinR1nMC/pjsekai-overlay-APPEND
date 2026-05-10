@@ -12,7 +12,7 @@
 
 [![pjsekai-overlay-APPEND thumbnail](https://github.com/user-attachments/assets/dcc037f7-1c2b-4b83-b17b-b3c5155d670c)]()
 
-Fork of [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) by [TootieJin](https://tootiejin.com), an open-sourced tool to make Project Sekai Fanmade (custom chart) videos - in other words... "Make your Sonolus look like Project Sekai."
+Fork of pjsk-overlay-append by keyorinz, an open-sourced tool (but modded) to make Rhythm Hive Fanmade (custom chart) videos - in other words... "Make your Sonolus look like Rhythm Hive."
 
 > [!CAUTION]
 > **Before using pjsekai-overlay-APPEND:** This tool is primary only for people with **technical know-how and basic knowledge of AviUtl.** \
@@ -39,3 +39,6 @@ This is a forked version of pjsekai-overlay-append with additional features orig
   - Interchangable LIFE value
   - Skill Effects (v1 + v3)
   - Achievement Rate
+
+> [!CAUTION]
+> **THIS PROJECT IS NOT AFFILIATED WITH SEVENC-NANASHI IN ANYWAYS
